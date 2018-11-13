@@ -1,0 +1,22 @@
+{
+  "name": "webscrapper",
+  "version": "1.0.0",
+  "description": "this is a project to play with puppeteerjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiang199x/webscrapper.git"
+  },
+  "author": "jiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiang199x/webscrapper/issues"
+  },
+  "homepage": "https://github.com/jiang199x/webscrapper#readme",
+  "dependencies": {
+    "puppeteer": "^1.10.0"
+  }
+}

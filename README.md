@@ -1,2 +1,2 @@
 # webscrapper
-playing with puppeteer
+This project is meant to be a trail project for puppeteerjs
